@@ -6,3 +6,4 @@ datasets
 fugashi
 ipadic
 unidic_lite
+pyarrow
