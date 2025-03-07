@@ -1,0 +1,8 @@
+torch
+tqdm
+transformers
+numpy
+datasets
+fugashi
+ipadic
+unidic_lite
